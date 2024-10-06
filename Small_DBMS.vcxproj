@@ -20,10 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Node.cpp" />
     <ClCompile Include="Ui.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="eUiType.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="Ui.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

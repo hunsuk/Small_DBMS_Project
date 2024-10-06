@@ -6,6 +6,7 @@ namespace dbms
 	{
 		EXIT,
 		NEW,
+		LOAD,
 		SEARCH,
 		PRINT,
 		REMOVE
